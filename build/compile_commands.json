@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ubuntu/AUT_AP_2024_Spring_HW1/build",
+  "command": "/usr/local/bin/c++  -I/home/ubuntu/AUT_AP_2024_Spring_HW1/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++20 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/ubuntu/AUT_AP_2024_Spring_HW1/src/main.cpp",
+  "file": "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/AUT_AP_2024_Spring_HW1/build",
+  "command": "/usr/local/bin/c++  -I/home/ubuntu/AUT_AP_2024_Spring_HW1/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++20 -o CMakeFiles/main.dir/src/algebra.cpp.o -c /home/ubuntu/AUT_AP_2024_Spring_HW1/src/algebra.cpp",
+  "file": "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/algebra.cpp"
+},
+{
+  "directory": "/home/ubuntu/AUT_AP_2024_Spring_HW1/build",
+  "command": "/usr/local/bin/c++  -I/home/ubuntu/AUT_AP_2024_Spring_HW1/include -Wall -Wextra -Werror -Wpedantic -g -std=gnu++20 -o CMakeFiles/main.dir/src/unit_test.cpp.o -c /home/ubuntu/AUT_AP_2024_Spring_HW1/src/unit_test.cpp",
+  "file": "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/unit_test.cpp"
+}
+]

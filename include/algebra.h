@@ -80,15 +80,15 @@ namespace algebra {
     }
 
     // Display function
-    template<typename T>
-    void display(const MATRIX<T>& matrix) {
-        for (const auto& row : matrix) {
-            for (const auto& elem : row) {
-                std::cout << std::format("{:>7.3f} ", elem); // 右对齐，保留3位小数，总宽度为7
-            }
-            std::cout << std::endl;
-        }
-    }
+    // template<typename T>
+    // void display(const MATRIX<T>& matrix) {
+    //     for (const auto& row : matrix) {
+    //         for (const auto& elem : row) {
+    //             std::cout << std::format("{:>7.3f} ", elem); // 右对齐，保留3位小数，总宽度为7
+    //         }
+    //         std::cout << std::endl;
+    //     }
+    // }
 
     // Matrix addition and subtraction
     template<typename T>

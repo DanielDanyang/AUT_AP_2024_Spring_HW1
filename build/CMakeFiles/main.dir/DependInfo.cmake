@@ -1,18 +1,16 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/algebra.cpp" "/home/ubuntu/AUT_AP_2024_Spring_HW1/build/CMakeFiles/main.dir/src/algebra.cpp.o"
-  "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/main.cpp" "/home/ubuntu/AUT_AP_2024_Spring_HW1/build/CMakeFiles/main.dir/src/main.cpp.o"
-  "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/unit_test.cpp" "/home/ubuntu/AUT_AP_2024_Spring_HW1/build/CMakeFiles/main.dir/src/unit_test.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../include"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/algebra.cpp" "CMakeFiles/main.dir/src/algebra.cpp.o" "gcc" "CMakeFiles/main.dir/src/algebra.cpp.o.d"
+  "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/main.cpp" "CMakeFiles/main.dir/src/main.cpp.o" "gcc" "CMakeFiles/main.dir/src/main.cpp.o.d"
+  "/home/ubuntu/AUT_AP_2024_Spring_HW1/src/unit_test.cpp" "CMakeFiles/main.dir/src/unit_test.cpp.o" "gcc" "CMakeFiles/main.dir/src/unit_test.cpp.o.d"
   )
 
 # Targets to which this target links.
