@@ -1,0 +1,3 @@
+/home/ubuntu/AUT_AP_2024_Spring_HW1/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/AUT_AP_2024_Spring_HW1/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/AUT_AP_2024_Spring_HW1/build/CMakeFiles/main.dir

@@ -5,7 +5,7 @@ project(AUT_AP_2024_Spring_HW1)
 
 # Set the C++ standard to C++23 and make it a required standard.
 # If the compiler does not support C++23, CMake will produce an error.
-set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(GTest REQUIRED)
